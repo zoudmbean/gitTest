@@ -9,5 +9,6 @@ public class TestDemo {
         System.out.println("Hello git!");
         System.out.println("Hello git!");
         System.out.println("Hello git!  hot-fix");
+        System.out.println("Hello git!  hot-fix  冲突演示");
     }
 }
